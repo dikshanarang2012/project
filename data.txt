@@ -1,0 +1,21 @@
+Admin register:
+
+{
+"name": "Dhanu",
+"email": "dhanu@gmail.com",
+"password": "something",
+"mobile"  :   "123456789"
+}
+
+User register:
+
+{
+"name": "Dhanu1",
+"email": "dhanu1@gmail.com",
+"password": "something1",
+"mobile"  :   "1234567891",
+
+
+}
+
+
